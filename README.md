@@ -27,36 +27,28 @@ Modesty-Guard is a privacy-focused solution that integrates camera access into a
 
 ## 🚀 **Installation & Setup**  
 
+---
+
 ### **1️⃣ Clone the Repository**  
 ```bash
 git clone https://github.com/SHRIKAVIN/Modesty-Guard.git
 cd Modesty-Guard
 
----
+2️⃣ Install Dependencies
 
-### **2️⃣ Install Dependencies**
-
+Run the following command to install the required dependencies:
 npm install
 
----
+3️⃣ Run the Application
 
-### **3️⃣ Run the Application**
-
+Start the development server with:
 npm run dev
 
----
+4️⃣ Access the Web App
 
-### **4️⃣ Access the Web App**
-
-Open your browser and go to:
-
+Once the server is running, open your browser and go to:
 http://localhost:5173
-
----
-
-### **📌 Usage**
-
+📌 Usage
 1️⃣ Allow camera access when prompted.
 2️⃣ The AI model will analyze the camera feed in real-time.
 3️⃣ If semi/full nude content is detected, an alert or blocking mechanism will activate.
-
